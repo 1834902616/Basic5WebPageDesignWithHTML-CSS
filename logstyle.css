@@ -1,0 +1,14 @@
+body{
+    background: url('images/p7.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.full-width{
+    min-height: 60vh;
+}
+
+form{
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
